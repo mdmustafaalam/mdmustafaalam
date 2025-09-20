@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmustafaalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdmustafaalam" /> </p>
 
-- 🔭 I’m currently working on **Indomitech Group**
-
 - 🌱 I’m currently learning **DSA, Backend Technology**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **Backend Development**
+  
+- 👨‍💻 <a href="" target="_blank" rel="noreferrer">Portfolio</a>
 
 - 📫 How to reach me **mustafaalam3240@gmail.com**
 
