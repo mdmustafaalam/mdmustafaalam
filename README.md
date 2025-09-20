@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
   
-- 👨‍💻 <a href="" target="_blank" rel="noreferrer">Portfolio</a>
+- 👨‍💻 [Portfolio](https://mdmustafaalam.github.io/Portfolio/)
 
 - 📫 How to reach me **mustafaalam3240@gmail.com**
 
