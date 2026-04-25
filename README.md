@@ -1,24 +1,88 @@
-<h1 align="center">Hi 👋, I'm Md Mustafa Alam</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **React Project**
+# Hi there, I'm **Md Mustafa Alam** 👋
 
-- 🌱 I’m currently learning **DSA, Backend Technology**
+```js
+const developer = {
+  name: "Md Mustafa Alam",
+  role: "Passionate Web Developer",
+  location: "India 🇮🇳",
+  currentlyBuilding: "React Projects",
+  learning: ["DSA", "Backend Technologies"],
+  openToCollaborate: "Web Development",
+  funFact: "I am genuinely funny — ask me to prove it 😎"
+};
+```
 
-- 👯 I’m looking to collaborate on **Web Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmustafaalam/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdmustafaalam.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaalam3240@gmail.com)
 
-- 🤝 I’m looking for help with **Backend Development**
+</div>
 
-- 👨‍💻 [Portfolio](https://mdmustafaalam.github.io/Portfolio/)
+---
 
-- 📫 How to reach me **mustafaalam3240@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I am Funny! 😎**
+- 🔭 Currently working on a **React Project**
+- 🌱 Actively learning **DSA** and **Backend Technologies**
+- 👯 Open to collaborate on **Web Development** projects
+- 🤝 Looking for guidance in **Backend Development**
+- 💻 Check out my work → [mdmustafaalam.github.io/Portfolio](https://mdmustafaalam.github.io/Portfolio/)
+- 📫 Reach me at **mustafaalam3240@gmail.com**
+- ⚡ Fun fact: I am genuinely funny — ask me to prove it 😎
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdmustafaalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdmustafaalam/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Current Focus
+
+| Area | Topic | Progress |
+|------|-------|----------|
+| 🎨 Frontend | React.js | ████████░░ 85% |
+| 🧠 Algorithms | DSA in Java | █████░░░░░ 50% |
+| ⚙️ Backend | Exploring | ██░░░░░░░░ 25% |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmustafaalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmustafaalam&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mdmustafaalam&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
