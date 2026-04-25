@@ -2,17 +2,6 @@
 
 # Hi there, I'm **Md Mustafa Alam** 👋
 
-```js
-const developer = {
-  name: "Md Mustafa Alam",
-  role: "Passionate Web Developer",
-  location: "India 🇮🇳",
-  currentlyBuilding: "React Projects",
-  learning: ["DSA", "Backend Technologies"],
-  openToCollaborate: "Web Development",
-  funFact: "I am genuinely funny — ask me to prove it 😎"
-};
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmustafaalam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdmustafaalam.github.io/Portfolio/)
@@ -56,33 +45,3 @@ const developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-## 📊 Current Focus
-
-| Area | Topic | Progress |
-|------|-------|----------|
-| 🎨 Frontend | React.js | ████████░░ 85% |
-| 🧠 Algorithms | DSA in Java | █████░░░░░ 50% |
-| ⚙️ Backend | Exploring | ██░░░░░░░░ 25% |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmustafaalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmustafaalam&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdmustafaalam&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
