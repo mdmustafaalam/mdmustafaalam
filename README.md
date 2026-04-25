@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;DSA+Explorer+%F0%9F%A7%A0;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mdmustafaalam&label=Profile+views&color=0f6e56&style=flat" alt="profile views"/>
-
+</div>
 ---
 ## 🚀 About Me
 - 🔭 Currently working on a **React Project**
