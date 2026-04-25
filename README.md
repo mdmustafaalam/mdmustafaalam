@@ -6,6 +6,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=mdmustafaalam&label=Profile+views&color=0f6e56&style=flat" alt="profile views"/>
 </div>
+
+<h1 align="center">Hi 👋, I'm Md Mustafa Alam</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+- 🔭 I’m currently working on **React Project**
+- 🌱 I’m currently learning **DSA, Backend Technology**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤝 I’m looking for help with **Backend Development**
+- 👨‍💻 [Portfolio](https://mdmustafaalam.github.io/Portfolio/)
+- 📫 How to reach me **[mustafaalam3240@gmail.com](mailto:mustafaalam3240@gmail.com)**
+- ⚡ Fun fact **I am Funny! 😎**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdmustafaalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdmustafaalam/" height="30" width="40" /></a>
+</p>
 ---
 ## 🚀 About Me
 - 🔭 Currently working on a **React Project**
