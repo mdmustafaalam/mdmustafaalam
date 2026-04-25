@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 Portfolio [https://mdmustafaalam.github.io/Portfolio/](https://mdmustafaalam.github.io/Portfolio/)
+- 👨‍💻 [Portfolio](https://mdmustafaalam.github.io/Portfolio/)
 
 - 📫 How to reach me **mustafaalam3240@gmail.com**
 
