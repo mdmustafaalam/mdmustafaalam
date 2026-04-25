@@ -6,8 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=mdmustafaalam&label=Profile+views&color=0f6e56&style=flat" alt="profile views"/>
 
+---
 ## 🚀 About Me
-
 - 🔭 Currently working on a **React Project**
 - 🌱 Actively learning **DSA** and **Backend Technologies**
 - 👯 Open to collaborate on **Web Development** projects
