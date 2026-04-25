@@ -1,14 +1,10 @@
 <div align="center">
 
-# Hi there, I'm **Md Mustafa Alam** 👋
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Hi%20there%2C%20I%27m%20Md%20Mustafa%20Alam%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;DSA+Explorer+%F0%9F%A7%A0;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmustafaalam/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdmustafaalam.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaalam3240@gmail.com)
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=mdmustafaalam&label=Profile+views&color=0f6e56&style=flat" alt="profile views"/>
 
 ---
 
