@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi there, I'm **Md Mustafa Alam** 👋
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmustafaalam/)
